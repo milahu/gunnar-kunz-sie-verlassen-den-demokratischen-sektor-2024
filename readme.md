@@ -6,7 +6,7 @@ https://www.amazon.de/dp/3960791143
 
 <blockquote>
 
-**Achtung Sie verlassen den demokratischen Sektor: Das Ende der Freiheit in Deutschland?**
+**Achtung! Sie verlassen den demokratischen Sektor: Das Ende der Freiheit in Deutschland?**
 
 Gunnar Kunz (Autor)
 
