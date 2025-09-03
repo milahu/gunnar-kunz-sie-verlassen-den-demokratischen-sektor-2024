@@ -64,7 +64,7 @@ sachlichen Debatten und Respekt vor „Andersdenkenden“.
 sie.verlassen.den.demokratischen.sektor.by.gunnar.kunz.2024.german.book.scan.600dpi.deskew.tiff
 
 ```
-TODO
+magnet:?xt=urn:btih:aee61821b4643ae4a7592bd9f1abf0217ec984f7&dn=sie.verlassen.den.demokratischen.sektor.by.gunnar.kunz.2024.german.book.scan.600dpi.deskew.tiff&xl=795626127&tr=udp%3A%2F%2F45.9.60.30%3A6969%2Fannounce&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&piece_size=4194304
 ```
 
 ## mirrors
