@@ -45,9 +45,9 @@
      </span>
      <span class='ocr_line' id='line_1_4' title="bbox 440 999 2566 1098; baseline -0.002 -24; x_size 98; x_descenders 26; x_ascenders 26">
       <span class='ocrx_word' id='word_1_26' title='bbox 440 1002 649 1089; x_wconf 92' lang='eng'>blem,</span>
-      <span class='ocrx_word' id='word_1_27' title='bbox 686 1002 822 1074; x_wconf 53'>&gt;die</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 686 1002 822 1074; x_wconf 53'>›die</span>
       <span class='ocrx_word' id='word_1_28' title='bbox 861 1002 1206 1074; x_wconf 93'>Mehrheit</span>
-      <span class='ocrx_word' id='word_1_29' title='bbox 1241 1002 1700 1098; x_wconf 92'>überzeugen«</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1241 1002 1700 1098; x_wconf 92'>überzeugen‹</span>
       <span class='ocrx_word' id='word_1_30' title='bbox 1739 1026 1826 1073; x_wconf 96'>zu</span>
       <span class='ocrx_word' id='word_1_31' title='bbox 1863 1006 2166 1088; x_wconf 96'>müssen,</span>
       <span class='ocrx_word' id='word_1_32' title='bbox 2204 1000 2349 1098; x_wconf 96' lang='eng'>gibt</span>
@@ -134,7 +134,6 @@
       <span class='ocrx_word' id='word_1_97' title='bbox 1723 2075 1835 2147; x_wconf 96'>für</span>
       <span class='ocrx_word' id='word_1_98' title='bbox 1860 2075 1981 2147; x_wconf 93'>das</span>
       <span class='ocrx_word' id='word_1_99' title='bbox 2010 2073 2568 2171; x_wconf 90'>Klimaproblem</span>
-      <span class='ocrx_word' id='word_1_100' title='bbox 2810 2111 2812 2113; x_wconf 95' lang='eng'>|</span>
      </span>
      <span class='ocr_line' id='line_1_13' title="bbox 437 2208 2569 2308; baseline -0 -27; x_size 100; x_descenders 27; x_ascenders 27">
       <span class='ocrx_word' id='word_1_101' title='bbox 437 2209 638 2282; x_wconf 92' lang='eng'>keine</span>
@@ -229,7 +228,7 @@
      <span class='ocr_line' id='line_1_22' title="bbox 435 3551 2572 3648; baseline -0.001 -24; x_size 96; x_descenders 25; x_ascenders 26">
       <span class='ocrx_word' id='word_1_170' title='bbox 435 3552 599 3624; x_wconf 96' lang='eng'>dem</span>
       <span class='ocrx_word' id='word_1_171' title='bbox 627 3553 902 3625; x_wconf 92'>Artikel</span>
-      <span class='ocrx_word' id='word_1_172' title='bbox 943 3554 1098 3625; x_wconf 74'>Vzer</span>
+      <span class='ocrx_word' id='word_1_172' title='bbox 943 3554 1098 3625; x_wconf 74'>Vier</span>
       <span class='ocrx_word' id='word_1_173' title='bbox 1123 3553 1386 3636; x_wconf 96'>Gründe,</span>
       <span class='ocrx_word' id='word_1_174' title='bbox 1425 3578 1651 3625; x_wconf 96'>warum</span>
       <span class='ocrx_word' id='word_1_175' title='bbox 1679 3555 1792 3623; x_wconf 93' lang='eng'>wir</span>
@@ -268,8 +267,8 @@
       <span class='ocrx_word' id='word_1_200' title='bbox 432 4091 821 4187; x_wconf 96'>Besorgnis</span>
       <span class='ocrx_word' id='word_1_201' title='bbox 863 4091 1038 4161; x_wconf 93'>über</span>
       <span class='ocrx_word' id='word_1_202' title='bbox 1075 4090 1472 4162; x_wconf 91' lang='eng'>restriktive</span>
-      <span class='ocrx_word' id='word_1_203' title='bbox 1512 4090 1910 4187; x_wconf 80'>»politische</span>
-      <span class='ocrx_word' id='word_1_204' title='bbox 1952 4088 2432 4161; x_wconf 82'>Korrektheit</span>
+      <span class='ocrx_word' id='word_1_203' title='bbox 1512 4090 1910 4187; x_wconf 80'>›politische</span>
+      <span class='ocrx_word' id='word_1_204' title='bbox 1952 4088 2432 4161; x_wconf 82'>Korrektheit‹</span>
       <span class='ocrx_word' id='word_1_205' title='bbox 2470 4088 2572 4158; x_wconf 83'>im</span>
      </span>
      <span class='ocr_line' id='line_1_27' title="bbox 433 4454 527 4516; baseline 0.011 -1; x_size 82.858871; x_descenders 21.858873; x_ascenders 22.088194">

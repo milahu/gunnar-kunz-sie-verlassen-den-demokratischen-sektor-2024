@@ -72,7 +72,7 @@
       <span class='ocrx_word' id='word_1_43' title='bbox 511 1674 854 1747; x_wconf 96'>Belieben</span>
       <span class='ocrx_word' id='word_1_44' title='bbox 901 1673 1220 1746; x_wconf 96'>schalten</span>
       <span class='ocrx_word' id='word_1_45' title='bbox 1262 1672 1414 1746; x_wconf 96'>und</span>
-      <span class='ocrx_word' id='word_1_46' title='bbox 1454 1668 1788 1746; x_wconf 84'>walten”.</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 1454 1668 1788 1746; x_wconf 84'>walten<sup>53</sup>.</span>
       <span class='ocrx_word' id='word_1_47' title='bbox 1838 1676 1948 1744; x_wconf 96'>Im</span>
       <span class='ocrx_word' id='word_1_48' title='bbox 1988 1673 2417 1761; x_wconf 96'>Bestreben,</span>
      </span>
@@ -106,7 +106,7 @@
       <span class='ocrx_word' id='word_1_71' title='bbox 2109 2076 2416 2150; x_wconf 91'>verdrei-</span>
      </span>
      <span class='ocr_line' id='line_1_12' title="bbox 283 2210 2418 2309; baseline -0 -26.101; x_size 98; x_descenders 25; x_ascenders 26">
-      <span class='ocrx_word' id='word_1_72' title='bbox 283 2210 689 2308; x_wconf 90' lang='eng'>Bigfachten</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 283 2210 689 2308; x_wconf 90' lang='eng'>ßigfachten</span>
       <span class='ocrx_word' id='word_1_73' title='bbox 722 2212 891 2300; x_wconf 95'>sich,</span>
       <span class='ocrx_word' id='word_1_74' title='bbox 918 2211 1256 2285; x_wconf 96'>während</span>
       <span class='ocrx_word' id='word_1_75' title='bbox 1286 2212 1409 2285; x_wconf 93' lang='eng'>der</span>
@@ -135,7 +135,6 @@
       <span class='ocrx_word' id='word_1_94' title='bbox 2013 2482 2422 2577; x_wconf 96'>Regierung</span>
      </span>
      <span class='ocr_line' id='line_1_15' title="bbox 34 2614 2418 2689; baseline 0 -4; x_size 99.066788; x_descenders 26.066784; x_ascenders 25">
-      <span class='ocrx_word' id='word_1_95' title='bbox 34 2627 37 2628; x_wconf 89' lang='eng'>|</span>
       <span class='ocrx_word' id='word_1_96' title='bbox 284 2614 480 2687; x_wconf 96' lang='eng'>nicht</span>
       <span class='ocrx_word' id='word_1_97' title='bbox 516 2640 649 2688; x_wconf 96' lang='eng'>nur</span>
       <span class='ocrx_word' id='word_1_98' title='bbox 686 2614 1009 2688; x_wconf 96' lang='eng'>Einfluss</span>
@@ -145,7 +144,7 @@
       <span class='ocrx_word' id='word_1_102' title='bbox 1685 2615 1835 2688; x_wconf 93' lang='eng'>und</span>
       <span class='ocrx_word' id='word_1_103' title='bbox 1876 2631 2054 2688; x_wconf 92' lang='eng'>setzt</span>
       <span class='ocrx_word' id='word_1_104' title='bbox 2092 2615 2217 2689; x_wconf 93' lang='eng'>das</span>
-      <span class='ocrx_word' id='word_1_105' title='bbox 2256 2617 2418 2688; x_wconf 87' lang='eng'>Pat-</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 2256 2617 2418 2688; x_wconf 87' lang='eng'>Par-</span>
      </span>
      <span class='ocr_line' id='line_1_16' title="bbox 283 2736 2422 2838; baseline 0.001 -18; x_size 89; x_descenders 16; x_ascenders 26">
       <span class='ocrx_word' id='word_1_106' title='bbox 283 2749 547 2822; x_wconf 96' lang='eng'>lament</span>
@@ -155,11 +154,11 @@
       <span class='ocrx_word' id='word_1_110' title='bbox 1381 2767 1558 2824; x_wconf 91' lang='eng'>etwa</span>
       <span class='ocrx_word' id='word_1_111' title='bbox 1593 2751 1665 2820; x_wconf 96' lang='eng'>in</span>
       <span class='ocrx_word' id='word_1_112' title='bbox 1705 2749 1829 2823; x_wconf 93' lang='eng'>der</span>
-      <span class='ocrx_word' id='word_1_113' title='bbox 1867 2736 2422 2824; x_wconf 92' lang='eng'>Offentlichkeit</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 1867 2736 2422 2824; x_wconf 92' lang='eng'>Öffentlichkeit</span>
      </span>
      <span class='ocr_line' id='line_1_17' title="bbox 287 2883 2419 2981; baseline 0.001 -27; x_size 98; x_descenders 25; x_ascenders 26">
       <span class='ocrx_word' id='word_1_114' title='bbox 287 2883 401 2955; x_wconf 93'>für</span>
-      <span class='ocrx_word' id='word_1_115' title='bbox 439 2884 1203 2981; x_wconf 87' lang='eng'>Gesetzesvorschlige</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 439 2884 1203 2981; x_wconf 87' lang='eng'>Gesetzesvorschläge</span>
       <span class='ocrx_word' id='word_1_116' title='bbox 1240 2884 1693 2981; x_wconf 92' lang='eng'>getrommelt</span>
       <span class='ocrx_word' id='word_1_117' title='bbox 1725 2884 1926 2971; x_wconf 93' lang='eng'>wird,</span>
       <span class='ocrx_word' id='word_1_118' title='bbox 1964 2884 2189 2956; x_wconf 96'>bevor</span>
@@ -179,7 +178,7 @@
       <span class='ocrx_word' id='word_1_128' title='bbox 698 3156 812 3227; x_wconf 96' lang='eng'>ein</span>
       <span class='ocrx_word' id='word_1_129' title='bbox 855 3156 1244 3252; x_wconf 92' lang='eng'>Imperium</span>
       <span class='ocrx_word' id='word_1_130' title='bbox 1287 3180 1375 3226; x_wconf 93' lang='eng'>an</span>
-      <span class='ocrx_word' id='word_1_131' title='bbox 1418 3154 2055 3227; x_wconf 89' lang='eng'>Online-Kanilen</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 1418 3154 2055 3227; x_wconf 89' lang='eng'>Online-Kanälen</span>
       <span class='ocrx_word' id='word_1_132' title='bbox 2096 3156 2228 3227; x_wconf 92' lang='eng'>mit</span>
       <span class='ocrx_word' id='word_1_133' title='bbox 2268 3153 2418 3226; x_wconf 92' lang='eng'>teil-</span>
      </span>
@@ -195,7 +194,7 @@
       <span class='ocrx_word' id='word_1_140' title='bbox 282 3424 863 3521; x_wconf 73' lang='eng'>gierungseigene</span>
       <span class='ocrx_word' id='word_1_141' title='bbox 889 3423 1226 3496; x_wconf 96' lang='eng'>Podcasts</span>
       <span class='ocrx_word' id='word_1_142' title='bbox 1253 3423 1404 3495; x_wconf 93' lang='eng'>und</span>
-      <span class='ocrx_word' id='word_1_143' title='bbox 1427 3422 2067 3495; x_wconf 91' lang='eng'>Youtube-Kanile</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 1427 3422 2067 3495; x_wconf 91' lang='eng'>Youtube-Kanäle</span>
       <span class='ocrx_word' id='word_1_144' title='bbox 2096 3422 2272 3495; x_wconf 96' lang='eng'>oder</span>
       <span class='ocrx_word' id='word_1_145' title='bbox 2297 3422 2423 3494; x_wconf 96'>der</span>
      </span>
@@ -237,7 +236,7 @@
      </span>
      <span class='ocr_line' id='line_1_26' title="bbox 279 4091 817 4169; baseline 0 -3; x_size 101.52373; x_descenders 25.523726; x_ascenders 29">
       <span class='ocrx_word' id='word_1_174' title='bbox 279 4095 625 4169; x_wconf 96'>verboten</span>
-      <span class='ocrx_word' id='word_1_175' title='bbox 654 4091 817 4168; x_wconf 73'>ist”.</span>
+      <span class='ocrx_word' id='word_1_175' title='bbox 654 4091 817 4168; x_wconf 73'>ist<sup>54</sup>.</span>
      </span>
      <span class='ocr_line' id='line_1_27' title="bbox 2325 4460 2420 4522; baseline 0 0; x_size 83.665642; x_descenders 21.665642; x_ascenders 22.104366">
       <span class='ocrx_word' id='word_1_176' title='bbox 2325 4460 2420 4522; x_wconf 96'>35</span>

@@ -55,7 +55,7 @@
       <span class='ocrx_word' id='word_1_29' title='bbox 270 1406 649 1502; x_wconf 96'>Journalist</span>
       <span class='ocrx_word' id='word_1_30' title='bbox 676 1406 1026 1480; x_wconf 93'>Christian</span>
       <span class='ocrx_word' id='word_1_31' title='bbox 1054 1407 1242 1479; x_wconf 92'>Staas</span>
-      <span class='ocrx_word' id='word_1_32' title='bbox 1275 1406 1454 1503; x_wconf 56'>(Zez/)</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1275 1406 1454 1503; x_wconf 56'>(Zeit)</span>
       <span class='ocrx_word' id='word_1_33' title='bbox 1484 1406 1755 1479; x_wconf 96'>machte</span>
       <span class='ocrx_word' id='word_1_34' title='bbox 1783 1406 2047 1481; x_wconf 92'>daraus:</span>
       <span class='ocrx_word' id='word_1_35' title='bbox 2075 1408 2210 1478; x_wconf 91'>»Es</span>
@@ -120,7 +120,7 @@
       <span class='ocrx_word' id='word_1_82' title='bbox 701 2214 813 2287; x_wconf 96'>die</span>
       <span class='ocrx_word' id='word_1_83' title='bbox 851 2214 1313 2286; x_wconf 96'>Demokratie</span>
       <span class='ocrx_word' id='word_1_84' title='bbox 1355 2213 1766 2287; x_wconf 96'>abschaffen</span>
-      <span class='ocrx_word' id='word_1_85' title='bbox 1804 2208 2052 2287; x_wconf 60'>wolle‘.</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 1804 2208 2052 2287; x_wconf 60'>wolle<sup>1</sup>.</span>
       <span class='ocrx_word' id='word_1_86' title='bbox 2097 2216 2181 2284; x_wconf 96'>In</span>
       <span class='ocrx_word' id='word_1_87' title='bbox 2222 2215 2416 2286; x_wconf 96'>einer</span>
      </span>
@@ -159,7 +159,6 @@
 
     <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 37 2750 2416 3095">
      <span class='ocr_line' id='line_1_15' title="bbox 37 2750 2415 2842; baseline 0 -20; x_size 92; x_descenders 18; x_ascenders 26">
-      <span class='ocrx_word' id='word_1_113' title='bbox 37 2841 40 2842; x_wconf 73'>|</span>
       <span class='ocrx_word' id='word_1_114' title='bbox 279 2750 435 2825; x_wconf 96' lang='deu'>haft</span>
       <span class='ocrx_word' id='word_1_115' title='bbox 475 2751 779 2825; x_wconf 96' lang='deu'>darüber</span>
       <span class='ocrx_word' id='word_1_116' title='bbox 818 2751 1000 2825; x_wconf 93'>nach</span>
@@ -176,7 +175,7 @@
       <span class='ocrx_word' id='word_1_125' title='bbox 1872 2885 2416 2958; x_wconf 89'>»Staatsfeinde«</span>
      </span>
      <span class='ocr_line' id='line_1_17' title="bbox 263 3016 736 3095; baseline -0.002 -2; x_size 103.3056; x_descenders 25.305607; x_ascenders 32">
-      <span class='ocrx_word' id='word_1_126' title='bbox 263 3016 736 3095; x_wconf 86' lang='deu'>bezeichnet“.</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 263 3016 736 3095; x_wconf 86' lang='deu'>bezeichnet<sup>2</sup>.</span>
      </span>
     </p>
 

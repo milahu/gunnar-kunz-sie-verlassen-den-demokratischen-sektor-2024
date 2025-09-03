@@ -64,7 +64,7 @@
      </span>
      <span class='ocr_line' id='line_1_6' title="bbox 440 1263 2563 1362; baseline -0 -27; x_size 88; x_descenders 17; x_ascenders 24">
       <span class='ocrx_word' id='word_1_41' title='bbox 440 1265 719 1337; x_wconf 92'>manuel</span>
-      <span class='ocrx_word' id='word_1_42' title='bbox 763 1259 1034 1366; x_wconf 90'>Macron,</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 737 1259 1063 1366; x_wconf 90'>Macron,</span>
       <span class='ocrx_word' id='word_1_43' title='bbox 1084 1265 1297 1361; x_wconf 90'>Justin</span>
       <span class='ocrx_word' id='word_1_44' title='bbox 1317 1265 1656 1352; x_wconf 90'>Trudeau,</span>
       <span class='ocrx_word' id='word_1_45' title='bbox 1677 1266 1868 1362; x_wconf 96'>Tony</span>
@@ -95,7 +95,7 @@
      </span>
      <span class='ocr_line' id='line_1_9' title="bbox 440 1665 1737 1766; baseline -0.001 -28; x_size 100; x_descenders 27; x_ascenders 27">
       <span class='ocrx_word' id='word_1_66' title='bbox 440 1668 1291 1766; x_wconf 92'>rungskräfteprogramm</span>
-      <span class='ocrx_word' id='word_1_67' title='bbox 1315 1665 1737 1741; x_wconf 6'>vertreten“.</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 1315 1665 1737 1741; x_wconf 6'>vertreten<sup>20</sup>.</span>
      </span>
     </p>
 
@@ -153,7 +153,7 @@
      <span class='ocr_line' id='line_1_15' title="bbox 434 2605 2568 2681; baseline -0.001 -1; x_size 99.918152; x_descenders 25.918156; x_ascenders 27">
       <span class='ocrx_word' id='word_1_108' title='bbox 434 2608 751 2681; x_wconf 91'>weichler</span>
       <span class='ocrx_word' id='word_1_109' title='bbox 782 2608 1057 2680; x_wconf 96'>werden</span>
-      <span class='ocrx_word' id='word_1_110' title='bbox 1093 2605 1450 2681; x_wconf 92'>bestraft“.</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 1093 2605 1450 2681; x_wconf 92'>bestraft<sup>21</sup>.</span>
       <span class='ocrx_word' id='word_1_111' title='bbox 1488 2610 1741 2680; x_wconf 93'>»Wenn</span>
       <span class='ocrx_word' id='word_1_112' title='bbox 1779 2607 1887 2679; x_wconf 96'>die</span>
       <span class='ocrx_word' id='word_1_113' title='bbox 1925 2607 2362 2680; x_wconf 96'>Kreditkarte</span>
@@ -196,7 +196,7 @@
      <span class='ocr_line' id='line_1_19' title="bbox 436 3276 2565 3375; baseline -0 -25; x_size 99; x_descenders 24; x_ascenders 29">
       <span class='ocrx_word' id='word_1_140' title='bbox 436 3280 651 3351; x_wconf 95'>Service</span>
       <span class='ocrx_word' id='word_1_141' title='bbox 665 3281 806 3350; x_wconf 95' lang='eng'>Act</span>
-      <span class='ocrx_word' id='word_1_142' title='bbox 827 3276 1117 3375; x_wconf 77'>(DSA)*</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 827 3276 1117 3375; x_wconf 77'>(DSA)<sup>22</sup></span>
       <span class='ocrx_word' id='word_1_143' title='bbox 1146 3296 1317 3351; x_wconf 96'>setzt</span>
       <span class='ocrx_word' id='word_1_144' title='bbox 1341 3279 1450 3352; x_wconf 96' lang='eng'>die</span>
       <span class='ocrx_word' id='word_1_145' title='bbox 1476 3282 1604 3351; x_wconf 96'>EU</span>

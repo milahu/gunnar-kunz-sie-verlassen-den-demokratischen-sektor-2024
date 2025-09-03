@@ -29,7 +29,7 @@
       <span class='ocrx_word' id='word_1_12' title='bbox 433 731 725 804; x_wconf 96'>sozialen</span>
       <span class='ocrx_word' id='word_1_13' title='bbox 755 731 1036 805; x_wconf 96'>Medien</span>
       <span class='ocrx_word' id='word_1_14' title='bbox 1066 756 1153 804; x_wconf 96'>zu</span>
-      <span class='ocrx_word' id='word_1_15' title='bbox 1182 726 1675 805; x_wconf 87'>bekommen“.</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1182 726 1675 805; x_wconf 87'>bekommen<sup>23</sup>.</span>
       <span class='ocrx_word' id='word_1_16' title='bbox 1712 731 1983 805; x_wconf 96'>Zudem</span>
       <span class='ocrx_word' id='word_1_17' title='bbox 2017 732 2228 805; x_wconf 92'>sollen</span>
       <span class='ocrx_word' id='word_1_18' title='bbox 2261 757 2408 805; x_wconf 92'>aus-</span>
@@ -54,7 +54,7 @@
      </span>
      <span class='ocr_line' id='line_1_5' title="bbox 283 1131 2410 1232; baseline -0 -26; x_size 98; x_descenders 26; x_ascenders 25">
       <span class='ocrx_word' id='word_1_33' title='bbox 283 1150 541 1232; x_wconf 96'>tungen</span>
-      <span class='ocrx_word' id='word_1_34' title='bbox 568 1131 1133 1207; x_wconf 38'>identifizieren“.</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 568 1131 1133 1207; x_wconf 38'>identifizieren<sup>24</sup>.</span>
       <span class='ocrx_word' id='word_1_35' title='bbox 1165 1137 1311 1207; x_wconf 96'>Das</span>
       <span class='ocrx_word' id='word_1_36' title='bbox 1340 1160 1513 1207; x_wconf 96'>neue</span>
       <span class='ocrx_word' id='word_1_37' title='bbox 1544 1135 1798 1208; x_wconf 96'>Gesetz</span>
@@ -88,7 +88,7 @@
      </span>
      <span class='ocr_line' id='line_1_8' title="bbox 279 1533 2410 1637; baseline -0 -27; x_size 102; x_descenders 25; x_ascenders 31">
       <span class='ocrx_word' id='word_1_61' title='bbox 279 1540 575 1635; x_wconf 96'>gerissen</span>
-      <span class='ocrx_word' id='word_1_62' title='bbox 609 1533 800 1626; x_wconf 92'>hat”,</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 609 1533 800 1626; x_wconf 92'>hat<sup>25</sup>,</span>
       <span class='ocrx_word' id='word_1_63' title='bbox 839 1541 931 1611; x_wconf 96'>sei</span>
       <span class='ocrx_word' id='word_1_64' title='bbox 965 1565 1037 1612; x_wconf 96'>es</span>
       <span class='ocrx_word' id='word_1_65' title='bbox 1071 1539 1182 1611; x_wconf 96'>bei</span>
@@ -167,7 +167,7 @@
      <span class='ocr_line' id='line_1_16' title="bbox 278 2746 1689 2847; baseline 0.001 -28; x_size 101; x_descenders 26; x_ascenders 27">
       <span class='ocrx_word' id='word_1_120' title='bbox 278 2748 1021 2847; x_wconf 91'>Befehlsempfängern</span>
       <span class='ocrx_word' id='word_1_121' title='bbox 1052 2774 1140 2823; x_wconf 93'>zu</span>
-      <span class='ocrx_word' id='word_1_122' title='bbox 1169 2746 1689 2847; x_wconf 71' lang='eng'>degradieren®.</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 1169 2746 1689 2847; x_wconf 71' lang='eng'>degradieren<sup>26</sup>.</span>
      </span>
     </p>
 
@@ -220,7 +220,7 @@
      </span>
      <span class='ocr_line' id='line_1_22' title="bbox 279 3687 1042 3788; baseline 0.001 -27; x_size 101; x_descenders 26; x_ascenders 29">
       <span class='ocrx_word' id='word_1_159' title='bbox 279 3691 536 3764; x_wconf 96'>Fakten</span>
-      <span class='ocrx_word' id='word_1_160' title='bbox 565 3687 1042 3788; x_wconf 75'>geschaffen“.</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 565 3687 1042 3788; x_wconf 75'>geschaffen<sup>27</sup>.</span>
      </span>
     </p>
 

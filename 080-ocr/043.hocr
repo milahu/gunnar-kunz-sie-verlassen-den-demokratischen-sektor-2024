@@ -36,7 +36,7 @@
       <span class='ocrx_word' id='word_1_14' title='bbox 867 1000 942 1069; x_wconf 96'>in</span>
       <span class='ocrx_word' id='word_1_15' title='bbox 979 998 1337 1071; x_wconf 96'>Wahrheit</span>
       <span class='ocrx_word' id='word_1_16' title='bbox 1374 1000 1629 1070; x_wconf 95'>immer</span>
-      <span class='ocrx_word' id='word_1_17' title='bbox 1654 997 1932 1074; x_wconf 93'>‚stärker</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1666 997 1932 1074; x_wconf 93'>stärker</span>
       <span class='ocrx_word' id='word_1_18' title='bbox 1971 1023 2090 1071; x_wconf 93'>aus</span>
       <span class='ocrx_word' id='word_1_19' title='bbox 2132 998 2410 1095; x_wconf 92'>Lobby-</span>
      </span>
@@ -110,8 +110,8 @@
 
     <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 279 2073 2419 4520">
      <span class='ocr_line' id='line_1_11' title="bbox 283 2073 2266 2169; baseline 0.002 -27; x_size 96; x_descenders 23; x_ascenders 26">
-      <span class='ocrx_word' id='word_1_72' title='bbox 283 2073 479 2146; x_wconf 83'>Fake</span>
-      <span class='ocrx_word' id='word_1_73' title='bbox 507 2074 789 2147; x_wconf 76' lang='deu'>NGOs</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 283 2073 479 2146; x_wconf 83'>›Fake</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 507 2074 789 2147; x_wconf 76' lang='deu'>NGOs‹</span>
       <span class='ocrx_word' id='word_1_74' title='bbox 816 2073 1224 2147; x_wconf 96' lang='deu'>bezeichnet</span>
       <span class='ocrx_word' id='word_1_75' title='bbox 1247 2074 1525 2147; x_wconf 93' lang='deu'>werden</span>
       <span class='ocrx_word' id='word_1_76' title='bbox 1554 2078 1921 2147; x_wconf 91' lang='deu'>müssten.«</span>
@@ -222,7 +222,7 @@
      <span class='ocr_line' id='line_1_23' title="bbox 282 3823 2416 3922; baseline 0 -27; x_size 99; x_descenders 27; x_ascenders 25">
       <span class='ocrx_word' id='word_1_158' title='bbox 282 3823 400 3895; x_wconf 95' lang='deu'>der</span>
       <span class='ocrx_word' id='word_1_159' title='bbox 422 3823 903 3922; x_wconf 93' lang='deu'>Bevölkerung</span>
-      <span class='ocrx_word' id='word_1_160' title='bbox 926 3824 1289 3897; x_wconf 73'>himmern</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 926 3824 1289 3897; x_wconf 73'>hämmern</span>
       <span class='ocrx_word' id='word_1_161' title='bbox 1312 3824 1459 3896; x_wconf 93' lang='deu'>und</span>
       <span class='ocrx_word' id='word_1_162' title='bbox 1485 3824 2243 3922; x_wconf 92' lang='deu'>regierungskonforme</span>
       <span class='ocrx_word' id='word_1_163' title='bbox 2266 3825 2416 3895; x_wconf 92'>An-</span>

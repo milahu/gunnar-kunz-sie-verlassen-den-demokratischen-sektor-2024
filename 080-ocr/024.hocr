@@ -156,7 +156,7 @@
       <span class='ocrx_word' id='word_1_108' title='bbox 581 2743 1169 2840; x_wconf 96'>Organisationen</span>
       <span class='ocrx_word' id='word_1_109' title='bbox 1194 2744 1324 2816; x_wconf 96'>wie</span>
       <span class='ocrx_word' id='word_1_110' title='bbox 1354 2743 1463 2816; x_wconf 96' lang='eng'>die</span>
-      <span class='ocrx_word' id='word_1_111' title='bbox 1489 2740 1802 2830; x_wconf 65' lang='eng'>WHO&quot;,</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 1489 2740 1802 2830; x_wconf 65' lang='eng'>WHO<sup>15</sup>,</span>
       <span class='ocrx_word' id='word_1_112' title='bbox 1837 2746 2017 2838; x_wconf 96' lang='eng'>[MH</span>
       <span class='ocrx_word' id='word_1_113' title='bbox 2048 2745 2158 2837; x_wconf 96'>36]</span>
       <span class='ocrx_word' id='word_1_114' title='bbox 2193 2742 2302 2814; x_wconf 93'>die</span>
@@ -204,7 +204,7 @@
       <span class='ocrx_word' id='word_1_146' title='bbox 2266 3412 2567 3509; x_wconf 91'>Zivilge-</span>
      </span>
      <span class='ocr_line' id='line_1_22' title="bbox 435 3546 2568 3646; baseline -0.001 -25; x_size 98; x_descenders 26; x_ascenders 26">
-      <span class='ocrx_word' id='word_1_147' title='bbox 435 3546 921 3643; x_wconf 59' lang='eng'>sellschaft«&#39;®),</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 435 3546 921 3643; x_wconf 59' lang='eng'>sellschaft«<sup>16</sup>),</span>
       <span class='ocrx_word' id='word_1_148' title='bbox 946 3549 1153 3622; x_wconf 96'>sowie</span>
       <span class='ocrx_word' id='word_1_149' title='bbox 1176 3549 1297 3621; x_wconf 96'>der</span>
       <span class='ocrx_word' id='word_1_150' title='bbox 1313 3549 1622 3621; x_wconf 96'>Versuch</span>
@@ -215,7 +215,7 @@
      <span class='ocr_line' id='line_1_23' title="bbox 432 3680 2571 3779; baseline -0.001 -25; x_size 98; x_descenders 25; x_ascenders 26">
       <span class='ocrx_word' id='word_1_154' title='bbox 432 3684 555 3755; x_wconf 96'>das</span>
       <span class='ocrx_word' id='word_1_155' title='bbox 590 3683 882 3779; x_wconf 96'>Bargeld</span>
-      <span class='ocrx_word' id='word_1_156' title='bbox 918 3680 1477 3755; x_wconf 87'>abzuschaffen‘.</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 918 3680 1477 3755; x_wconf 87'>abzuschaffen<sup>17</sup>.</span>
       <span class='ocrx_word' id='word_1_157' title='bbox 1524 3686 1701 3776; x_wconf 90'>[EW</span>
       <span class='ocrx_word' id='word_1_158' title='bbox 1737 3686 1875 3770; x_wconf 96'>110,</span>
       <span class='ocrx_word' id='word_1_159' title='bbox 1916 3684 2232 3776; x_wconf 96'>125-126]</span>

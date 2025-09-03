@@ -61,7 +61,7 @@
       <span class='ocrx_word' id='word_1_35' title='bbox 1579 1292 1723 1338; x_wconf 96'>von</span>
       <span class='ocrx_word' id='word_1_36' title='bbox 1753 1266 2000 1353; x_wconf 96'>denen,</span>
       <span class='ocrx_word' id='word_1_37' title='bbox 2030 1265 2139 1337; x_wconf 96'>die</span>
-      <span class='ocrx_word' id='word_1_38' title='bbox 2171 1265 2261 1337; x_wconf 85' lang='eng'>ste</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 2171 1265 2261 1337; x_wconf 85' lang='eng'>sie</span>
       <span class='ocrx_word' id='word_1_39' title='bbox 2291 1290 2561 1337; x_wconf 92'>anwen-</span>
      </span>
      <span class='ocr_line' id='line_1_6' title="bbox 437 1399 2566 1501; baseline -0.001 -28; x_size 89; x_descenders 16; x_ascenders 26">
@@ -87,7 +87,7 @@
      <span class='ocr_line' id='line_1_8' title="bbox 437 1666 2562 1767; baseline -0.001 -26; x_size 102; x_descenders 27; x_ascenders 29">
       <span class='ocrx_word' id='word_1_56' title='bbox 437 1669 764 1742; x_wconf 96'>chenden</span>
       <span class='ocrx_word' id='word_1_57' title='bbox 804 1669 1195 1767; x_wconf 93'>Beispielen</span>
-      <span class='ocrx_word' id='word_1_58' title='bbox 1235 1666 1658 1767; x_wconf 5'>gibt&#39;“**,</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 1235 1666 1658 1767; x_wconf 5'>gibt<sup>10,11,12,13</sup>.</span>
       <span class='ocrx_word' id='word_1_59' title='bbox 1701 1669 1840 1741; x_wconf 96'>Die</span>
       <span class='ocrx_word' id='word_1_60' title='bbox 1880 1669 2374 1766; x_wconf 93'>Behauptung,</span>
       <span class='ocrx_word' id='word_1_61' title='bbox 2416 1667 2562 1739; x_wconf 92' lang='eng'>nie-</span>
@@ -155,7 +155,6 @@
       <span class='ocrx_word' id='word_1_109' title='bbox 1982 2609 2103 2681; x_wconf 96'>das</span>
       <span class='ocrx_word' id='word_1_110' title='bbox 2143 2608 2383 2680; x_wconf 96'>Leben</span>
       <span class='ocrx_word' id='word_1_111' title='bbox 2420 2633 2564 2679; x_wconf 96'>von</span>
-      <span class='ocrx_word' id='word_1_112' title='bbox 2808 2598 2809 2601; x_wconf 91' lang='eng'>|</span>
      </span>
      <span class='ocr_line' id='line_1_16' title="bbox 433 2742 2567 2840; baseline -0.002 -24; x_size 88; x_descenders 16; x_ascenders 25">
       <span class='ocrx_word' id='word_1_113' title='bbox 433 2743 831 2838; x_wconf 95'>jemandem</span>

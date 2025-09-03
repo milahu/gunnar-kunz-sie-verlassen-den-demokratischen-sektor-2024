@@ -33,7 +33,7 @@
      <span class='ocr_line' id='line_1_3' title="bbox 449 859 2567 959; baseline -0.001 -27; x_size 100; x_descenders 27; x_ascenders 27">
       <span class='ocrx_word' id='word_1_15' title='bbox 449 861 783 934; x_wconf 91'>feindlich</span>
       <span class='ocrx_word' id='word_1_16' title='bbox 824 861 1204 959; x_wconf 93'>eingestuft</span>
-      <span class='ocrx_word' id='word_1_17' title='bbox 1237 859 1487 934; x_wconf 82' lang='eng'>wird®.</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1237 859 1487 934; x_wconf 82' lang='eng'>wird<sup>66</sup>.</span>
       <span class='ocrx_word' id='word_1_18' title='bbox 1528 861 1973 959; x_wconf 96'>Vorgesehen</span>
       <span class='ocrx_word' id='word_1_19' title='bbox 2016 861 2169 933; x_wconf 96' lang='eng'>sind</span>
       <span class='ocrx_word' id='word_1_20' title='bbox 2208 861 2359 933; x_wconf 93' lang='eng'>eine</span>
@@ -76,7 +76,7 @@
      <span class='ocr_line' id='line_1_8' title="bbox 443 1529 2579 1629; baseline -0.002 -24; x_size 98; x_descenders 24; x_ascenders 27">
       <span class='ocrx_word' id='word_1_48' title='bbox 443 1536 631 1629; x_wconf 91'>janer</span>
       <span class='ocrx_word' id='word_1_49' title='bbox 656 1534 1135 1605; x_wconf 91' lang='eng'>einschleusen</span>
-      <span class='ocrx_word' id='word_1_50' title='bbox 1161 1529 1655 1605; x_wconf 19'>können®“*°®.</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1161 1529 1655 1605; x_wconf 19'>können<sup>66,67,68</sup>.</span>
       <span class='ocrx_word' id='word_1_51' title='bbox 1686 1534 1824 1603; x_wconf 95'>Ein</span>
       <span class='ocrx_word' id='word_1_52' title='bbox 1847 1533 2153 1605; x_wconf 96'>weiterer</span>
       <span class='ocrx_word' id='word_1_53' title='bbox 2177 1532 2430 1605; x_wconf 96'>Schritt</span>
@@ -133,7 +133,7 @@
      <span class='ocr_line' id='line_1_14' title="bbox 442 2335 1461 2435; baseline 0 -25; x_size 100; x_descenders 25; x_ascenders 29">
       <span class='ocrx_word' id='word_1_93' title='bbox 442 2339 760 2411; x_wconf 96'>ohnehin</span>
       <span class='ocrx_word' id='word_1_94' title='bbox 792 2339 1011 2411; x_wconf 97'>schon</span>
-      <span class='ocrx_word' id='word_1_95' title='bbox 1038 2335 1461 2435; x_wconf 67'>geschieht“.</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 1038 2335 1461 2435; x_wconf 67'>geschieht<sup>69</sup>.</span>
      </span>
     </p>
 
@@ -154,7 +154,6 @@
       <span class='ocrx_word' id='word_1_106' title='bbox 1431 2741 1579 2814; x_wconf 92'>und</span>
       <span class='ocrx_word' id='word_1_107' title='bbox 1612 2741 2011 2838; x_wconf 91'>huckepack</span>
       <span class='ocrx_word' id='word_1_108' title='bbox 2044 2740 2570 2838; x_wconf 92'>eingeschleust,</span>
-      <span class='ocrx_word' id='word_1_109' title='bbox 2831 2767 2834 2768; x_wconf 78' lang='eng'>|</span>
      </span>
      <span class='ocr_line' id='line_1_17' title="bbox 440 2874 2569 2972; baseline -0.002 -25; x_size 98; x_descenders 26; x_ascenders 25">
       <span class='ocrx_word' id='word_1_110' title='bbox 440 2875 563 2947; x_wconf 93' lang='eng'>das</span>
@@ -206,7 +205,7 @@
       <span class='ocrx_word' id='word_1_146' title='bbox 1420 3547 1545 3619; x_wconf 96' lang='eng'>auf</span>
       <span class='ocrx_word' id='word_1_147' title='bbox 1565 3547 1717 3619; x_wconf 93' lang='eng'>eine</span>
       <span class='ocrx_word' id='word_1_148' title='bbox 1747 3546 1940 3619; x_wconf 96'>Stufe</span>
-      <span class='ocrx_word' id='word_1_149' title='bbox 1967 3543 2302 3644; x_wconf 43' lang='eng'>gestellt”.</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 1967 3543 2302 3644; x_wconf 43' lang='eng'>gestellt<sup>70</sup>.</span>
      </span>
     </p>
 
