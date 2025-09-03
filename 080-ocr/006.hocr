@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/006.tiff"; bbox 0 0 2867 4852; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 431 536 2573 4513">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 431 536 2573 4513">
+     <span class='ocr_line' id='line_1_1' title="bbox 1369 536 1646 607; baseline -0.004 0; x_size 80.64518; x_descenders 10.645182; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_1' title='bbox 1369 536 1646 607; x_wconf 95'>Inhalt</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 435 851 2565 937; baseline -0.001 -15; x_size 77.427933; x_descenders 10.427933; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_2' title='bbox 435 851 815 937; x_wconf 95'>Vorwort</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 2513 852 2565 919; x_wconf 43'>©</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 442 1078 2565 1170; baseline -0 -20; x_size 91; x_descenders 20; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_4' title='bbox 442 1079 593 1151; x_wconf 93'>Die</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 625 1080 1175 1170; x_wconf 92'>Aushöhlung</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1213 1081 1367 1151; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1405 1078 1954 1151; x_wconf 91'>Demokratie</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 2466 1082 2565 1149; x_wconf 96'>15</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 441 1342 2570 1418; baseline -0.001 -2; x_size 84.862427; x_descenders 10.862431; x_ascenders 24">
+      <span class='ocrx_word' id='word_1_9' title='bbox 441 1342 637 1417; x_wconf 95'>Eine</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 667 1347 993 1418; x_wconf 96'>Zensur</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1026 1342 1304 1418; x_wconf 95'>findet</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1335 1351 1552 1417; x_wconf 86'>statt</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 2467 1346 2570 1413; x_wconf 95'>17</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 532 1487 2564 1578; baseline -0.001 -19; x_size 81.427933; x_descenders 10.427933; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_14' title='bbox 532 1493 700 1561; x_wconf 96'>Das</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 738 1490 960 1561; x_wconf 96'>Ende</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 996 1490 1148 1561; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1180 1487 1992 1578; x_wconf 95'>Meinungsfreiheit</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 2454 1490 2564 1557; x_wconf 95'>22</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 532 1644 1639 1736; baseline 0.001 -19; x_size 82.862427; x_descenders 10.862431; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_19' title='bbox 532 1645 1216 1719; x_wconf 95'>Internationale</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1246 1644 1639 1736; x_wconf 95'>Angriffe</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 529 1754 2567 1829; baseline -0.002 0; x_size 83.64518; x_descenders 10.645182; x_ascenders 24">
+      <span class='ocrx_word' id='word_1_21' title='bbox 529 1755 684 1829; x_wconf 96'>auf</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 717 1755 861 1829; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 898 1754 1446 1829; x_wconf 95'>Demokratie</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 2455 1757 2567 1825; x_wconf 95'>24</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 526 1896 2566 2003; baseline -0 -18; x_size 91; x_descenders 19; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_25' title='bbox 526 1912 1002 1986; x_wconf 94'>Staatliche</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1040 1896 1673 2003; x_wconf 96'>Überwachung</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 2454 1914 2566 1984; x_wconf 92'>30</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 526 2069 2566 2144; baseline -0.001 -1; x_size 82.64518; x_descenders 10.645182; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_28' title='bbox 526 2070 1001 2144; x_wconf 93' lang='eng'>Staatliche</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1040 2069 1720 2144; x_wconf 86'>Indoktrination</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 2455 2072 2566 2141; x_wconf 95'>35</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 526 2228 2567 2302; baseline -0 -2; x_size 81.862427; x_descenders 10.862431; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_31' title='bbox 526 2228 1001 2301; x_wconf 89'>Staatliche</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1032 2232 1352 2302; x_wconf 96'>Zensur</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 2454 2229 2567 2299; x_wconf 96'>38</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 526 2385 2555 2475; baseline -0.002 -18; x_size 91; x_descenders 20; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_34' title='bbox 526 2385 1001 2458; x_wconf 91'>Staatliche</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1039 2386 1743 2475; x_wconf 91'>Rechtsbeugung</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 2460 2389 2555 2453; x_wconf 79' lang='eng'>41</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 530 2541 2567 2634; baseline 0 -21; x_size 93; x_descenders 21; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_37' title='bbox 530 2542 682 2615; x_wconf 93' lang='eng'>Die</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 719 2541 1305 2634; x_wconf 90' lang='eng'>Hilfstruppen</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1342 2543 1499 2615; x_wconf 93' lang='eng'>des</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 1530 2544 1878 2615; x_wconf 95'>Staates</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 2455 2543 2567 2613; x_wconf 89' lang='eng'>43</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 530 2699 2567 2774; baseline -0 -2; x_size 82.64518; x_descenders 10.645182; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_42' title='bbox 530 2705 698 2774; x_wconf 90' lang='eng'>Das</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 736 2699 1822 2774; x_wconf 57' lang='eng'>Herrschaftsverstandnis</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 1857 2701 2012 2772; x_wconf 93' lang='eng'>der</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 2049 2699 2311 2772; x_wconf 93'>Eliten</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 2455 2702 2567 2771; x_wconf 96' lang='eng'>48</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 439 2890 2556 2967; baseline -0 -3; x_size 85.079681; x_descenders 11.079679; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_47' title='bbox 439 2891 893 2967; x_wconf 90' lang='eng'>Politische</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 930 2890 1682 2967; x_wconf 89' lang='eng'>Farbenblindheit</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 2460 2895 2556 2964; x_wconf 95' lang='eng'>51</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 431 3072 2569 3148; baseline -0 -2; x_size 84.862427; x_descenders 10.862431; x_ascenders 24">
+      <span class='ocrx_word' id='word_1_50' title='bbox 431 3072 676 3148; x_wconf 95' lang='eng'>Virus</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 710 3075 867 3148; x_wconf 93' lang='eng'>der</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 904 3075 1387 3148; x_wconf 96'>Intoleranz</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 2456 3075 2569 3146; x_wconf 96' lang='eng'>59</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 438 3252 2570 3347; baseline -0.001 -20; x_size 97; x_descenders 21; x_ascenders 26">
+      <span class='ocrx_word' id='word_1_54' title='bbox 438 3254 589 3329; x_wconf 93' lang='eng'>Die</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 624 3252 1043 3347; x_wconf 95'>Tragödie</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 1077 3254 1380 3347; x_wconf 96'>junger</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 1411 3253 1891 3328; x_wconf 96'>Aktivisten</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 2455 3258 2570 3326; x_wconf 96' lang='eng'>64</span>
+     </span>
+     <span class='ocr_line' id='line_1_17' title="bbox 438 3517 2569 3609; baseline -0.001 -20; x_size 83.64518; x_descenders 10.645182; x_ascenders 24">
+      <span class='ocrx_word' id='word_1_59' title='bbox 438 3517 589 3591; x_wconf 92' lang='eng'>Die</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 628 3517 1404 3609; x_wconf 86' lang='eng'>Komplizenschaft</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1438 3518 1594 3591; x_wconf 96' lang='eng'>der</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 1624 3517 1973 3590; x_wconf 95' lang='eng'>Medien</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 2456 3519 2569 3589; x_wconf 95'>69</span>
+     </span>
+     <span class='ocr_line' id='line_1_18' title="bbox 437 3781 2557 3875; baseline -0.001 -21; x_size 93; x_descenders 20; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_64' title='bbox 437 3786 606 3856; x_wconf 93'>Das</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 637 3781 1414 3875; x_wconf 91'>Meinungskartell</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 2461 3784 2557 3852; x_wconf 94'>71</span>
+     </span>
+     <span class='ocr_line' id='line_1_19' title="bbox 527 3926 2573 4001; baseline -0.001 -3; x_size 82.64518; x_descenders 10.645182; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_67' title='bbox 527 3926 680 4000; x_wconf 96'>Die</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 718 3929 1143 4001; x_wconf 96'>Ursachen</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 2459 3931 2573 3996; x_wconf 96' lang='eng'>77</span>
+     </span>
+     <span class='ocr_line' id='line_1_20' title="bbox 527 4085 2571 4177; baseline -0 -21; x_size 92; x_descenders 20; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_70' title='bbox 527 4090 696 4158; x_wconf 96' lang='eng'>Das</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 734 4085 1178 4177; x_wconf 73' lang='eng'>Imperium</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1213 4086 1547 4176; x_wconf 95'>schlägt</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 1580 4086 1890 4157; x_wconf 96'>zurück</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 2456 4087 2571 4156; x_wconf 89'>84</span>
+     </span>
+     <span class='ocr_line' id='line_1_21' title="bbox 435 4452 477 4513; baseline 0 0; x_size 69.994919; x_descenders 8.9949188; x_ascenders 19.596195">
+      <span class='ocrx_word' id='word_1_75' title='bbox 435 4452 477 4513; x_wconf 96'>6</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

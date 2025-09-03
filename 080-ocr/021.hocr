@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/021.tiff"; bbox 0 0 2878 4859; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 279 598 2413 4524">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 279 598 2413 1076">
+     <span class='ocr_line' id='line_1_1' title="bbox 283 598 2411 697; baseline 0.001 -28; x_size 99; x_descenders 26; x_ascenders 25">
+      <span class='ocrx_word' id='word_1_1' title='bbox 283 599 559 671; x_wconf 96'>Namen</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 590 598 710 671; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 736 599 1385 697; x_wconf 93'>Meinungsfreiheit</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1414 600 1725 688; x_wconf 91'>einreiht,</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1758 601 1888 696; x_wconf 91'>(...)</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1922 600 2192 672; x_wconf 49'>riskiert</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 2218 625 2411 687; x_wconf 96' lang='eng'>man,</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 283 731 2413 830; baseline 0.001 -29; x_size 98; x_descenders 25; x_ascenders 26">
+      <span class='ocrx_word' id='word_1_8' title='bbox 283 731 509 805; x_wconf 93'>rechte</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 533 734 891 805; x_wconf 91'>Narrative</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 917 757 1005 806; x_wconf 96'>zu</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1026 738 1523 806; x_wconf 93'>unterstützen.</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1556 734 1682 830; x_wconf 89'>(...)</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1710 733 1953 806; x_wconf 96'>Daher</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1974 734 2261 806; x_wconf 96'>können</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 2283 735 2413 806; x_wconf 96'>wir</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 282 866 2411 965; baseline 0.001 -29; x_size 97; x_descenders 24; x_ascenders 26">
+      <span class='ocrx_word' id='word_1_16' title='bbox 282 866 472 939; x_wconf 96'>nicht</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 497 892 583 939; x_wconf 96'>an</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 612 869 841 940; x_wconf 96'>einem</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 867 869 1013 940; x_wconf 96'>rein</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1043 868 1406 955; x_wconf 95'>formalen,</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1433 867 1784 941; x_wconf 96'>neutralen</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1814 869 1985 941; x_wconf 96'>oder</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 2012 868 2411 965; x_wconf 96'>objektiven</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 279 999 2411 1076; baseline 0 -5; x_size 97.827095; x_descenders 24.827093; x_ascenders 25">
+      <span class='ocrx_word' id='word_1_24' title='bbox 279 1001 726 1074; x_wconf 96'>Verständnis</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 749 1027 893 1074; x_wconf 93'>von</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 915 1002 1613 1076; x_wconf 91' lang='eng'>wissenschaftlicher</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1636 1002 1929 1076; x_wconf 93'>Freiheit</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1954 999 2411 1076; x_wconf 83' lang='eng'>festhalten.«’</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 2318 4462 2399 4524">
+     <span class='ocr_line' id='line_1_5' title="bbox 2318 4462 2399 4524; baseline -0.012 0; x_size 82.766411; x_descenders 20.766409; x_ascenders 21.850811">
+      <span class='ocrx_word' id='word_1_29' title='bbox 2318 4462 2399 4524; x_wconf 94'>21</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

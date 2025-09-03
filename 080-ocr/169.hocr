@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/169.tiff"; bbox 0 0 2853 4844; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 406 1194 2270 2561">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 370 1194 2270 2561">
+     <span class='ocr_line' id='line_1_1' title="bbox 531 1194 957 1235; baseline 0 0; x_size 55.456715; x_descenders 14.456714; x_ascenders 14.883561">
+      <span class='ocrx_word' id='word_1_1' title='bbox 531 1194 573 1235; x_wconf 86'>®</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 915 1194 957 1235; x_wconf 92'>®</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 406 1196 2270 1330; baseline -0.002 -3; x_size 180.92645; x_descenders 50.926453; x_ascenders 38">
+      <span class='ocrx_word' id='word_1_3' title='bbox 406 1198 1327 1330; x_wconf 96'>Historische</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1396 1196 2270 1329; x_wconf 95'>Parallelen</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 514 1927 2166 2025; baseline -0.002 -24; x_size 97; x_descenders 25; x_ascenders 26">
+      <span class='ocrx_word' id='word_1_5' title='bbox 514 1930 653 2001; x_wconf 94'>Was</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 677 1929 768 2001; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 791 1928 1146 2025; x_wconf 96'>Erfahrung</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1167 1928 1314 1999; x_wconf 96'>aber</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1331 1928 1460 1999; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1481 1928 1571 1999; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1598 1927 1931 1999; x_wconf 95'>Geschichte</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1957 1927 2166 2010; x_wconf 96'>lehren,</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 457 2061 2223 2159; baseline -0.002 -23; x_size 98; x_descenders 26; x_ascenders 26">
+      <span class='ocrx_word' id='word_1_13' title='bbox 457 2065 539 2135; x_wconf 82' lang='eng'>ist</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 560 2063 748 2148; x_wconf 95'>dieses,</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 780 2063 918 2135; x_wconf 96'>dass</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 951 2063 1188 2135; x_wconf 95'>Völker</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1206 2062 1335 2134; x_wconf 96'>und</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1355 2062 1746 2159; x_wconf 95'>Regierungen</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1775 2061 2022 2133; x_wconf 95'>niemals</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 2047 2075 2223 2132; x_wconf 96' lang='eng'>etwas</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 723 2196 1946 2294; baseline -0.002 -24; x_size 97; x_descenders 25; x_ascenders 26">
+      <span class='ocrx_word' id='word_1_21' title='bbox 723 2224 835 2271; x_wconf 96'>aus</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 860 2199 965 2271; x_wconf 96'>der</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 986 2198 1319 2270; x_wconf 95'>Geschichte</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 1331 2197 1558 2294; x_wconf 92'>gelernt</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1583 2199 1712 2293; x_wconf 79'>(...)</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1740 2196 1946 2269; x_wconf 95' lang='eng'>haben.</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 796 2473 1881 2561; baseline -0.002 -21.846; x_size 88; x_descenders 24; x_ascenders 24">
+      <span class='ocrx_word' id='word_1_27' title='bbox 796 2476 1012 2561; x_wconf 96'>Georg</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1031 2474 1325 2538; x_wconf 96'>Wilhelm</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1351 2473 1657 2538; x_wconf 96'>Friedrich</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 1681 2473 1881 2560; x_wconf 96'>Hegel</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/003.tiff"; bbox 0 0 2851 4843; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 330 527 2648 4188">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 330 223 2648 4188">
+     <span class='ocr_line' id='line_1_1' title="bbox 332 527 1107 775; baseline 0.002 -68; x_size 199.89848; x_descenders 20.898479; x_ascenders 54.06345">
+      <span class='ocrx_word' id='word_1_1' title='bbox 332 527 785 775; x_wconf 78'>GUNNAR</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 824 529 1107 749; x_wconf 95' lang='eng'>KUNZ</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 345 735 2428 1483; baseline 0.008 -16; x_size 812.99493; x_descenders 84.994926; x_ascenders 219.87816">
+      <span class='ocrx_word' id='word_1_3' title='bbox 345 735 2428 1483; x_wconf 37' lang='eng'>ACHTUNG</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 330 1494 2435 1925; baseline 0 -59; x_size 440; x_descenders 46; x_ascenders 119">
+      <span class='ocrx_word' id='word_1_4' title='bbox 330 1494 658 1866; x_wconf 91' lang='eng'>SIE</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 721 1497 1925 1868; x_wconf 90' lang='eng'>VERLASSEN</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1985 1502 2435 1925; x_wconf 96' lang='eng'>DEN</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1156 2626 2350 2987; baseline 0.004 27; x_size 437.83273; x_descenders 45.832729; x_ascenders 118">
+      <span class='ocrx_word' id='word_1_7' title='bbox 1156 2741 1583 3015; x_wconf 64' lang='eng'>Da</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 510 3075 2251 3690; baseline -0.005 -1; x_size 683.45178; x_descenders 71.451775; x_ascenders 184.84264">
+      <span class='ocrx_word' id='word_1_8' title='bbox 510 3075 2251 3690; x_wconf 37'>ZEN</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 565 3386 2648 4188; baseline -0.008 -57; x_size 833.09644; x_descenders 87.096451; x_ascenders 225.31471">
+      <span class='ocrx_word' id='word_1_9' title='bbox 565 3386 2648 4188; x_wconf 36'>NS</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/005.tiff"; bbox 0 0 2858 4847; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 931 1851 2410 2207">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 931 1851 2410 2207">
+     <span class='ocr_line' id='line_1_1' title="bbox 931 1851 2400 1949; baseline 0.001 -28; x_size 97; x_descenders 26; x_ascenders 25">
+      <span class='ocrx_word' id='word_1_1' title='bbox 931 1851 1029 1922; x_wconf 93'>Ich</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1058 1851 1444 1948; x_wconf 90'>beanspruche</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 1470 1852 1579 1923; x_wconf 96'>das</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1603 1852 1793 1924; x_wconf 96'>Recht</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1813 1853 1937 1948; x_wconf 95'>auf</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1947 1852 2317 1949; x_wconf 89'>Opposition.</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 2348 1899 2400 1906; x_wconf 92'>—</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1292 1977 2410 2073; baseline 0.002 -27; x_size 97; x_descenders 26; x_ascenders 25">
+      <span class='ocrx_word' id='word_1_8' title='bbox 1292 1977 1469 2073; x_wconf 96'>Jeder</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1486 1979 1567 2047; x_wconf 96'>ist</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1587 1977 1726 2048; x_wconf 96'>doch</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1753 1977 1918 2048; x_wconf 96'>heute</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1945 1978 2410 2049; x_wconf 96'>einverstanden!</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1970 2143 2398 2207; baseline -0.002 0; x_size 86.915009; x_descenders 23.915012; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_13' title='bbox 1970 2145 2218 2207; x_wconf 96'>Günter</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 2240 2143 2398 2207; x_wconf 97'>Eich</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
