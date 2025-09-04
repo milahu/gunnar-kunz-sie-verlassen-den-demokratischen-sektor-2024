@@ -34,7 +34,7 @@
       <span class='ocrx_word' id='word_1_12' title='bbox 447 1018 572 1065; x_wconf 93'>zur</span>
       <span class='ocrx_word' id='word_1_13' title='bbox 594 993 928 1090; x_wconf 91'>Legalität</span>
       <span class='ocrx_word' id='word_1_14' title='bbox 952 993 1069 1066; x_wconf 93'>hat</span>
-      <span class='ocrx_word' id='word_1_15' title='bbox 1096 994 1290 1090; x_wconf 31'>(@Für</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1096 994 1290 1090; x_wconf 31'>(»Für</span>
       <span class='ocrx_word' id='word_1_16' title='bbox 1315 993 1424 1066; x_wconf 96'>die</span>
       <span class='ocrx_word' id='word_1_17' title='bbox 1450 992 2099 1090; x_wconf 96'>Bundesregierung</span>
       <span class='ocrx_word' id='word_1_18' title='bbox 2121 993 2308 1064; x_wconf 96'>kann</span>
@@ -118,7 +118,7 @@
       <span class='ocrx_word' id='word_1_80' title='bbox 1156 2092 1377 2164; x_wconf 96' lang='eng'>gegen</span>
       <span class='ocrx_word' id='word_1_81' title='bbox 1407 2067 1517 2138; x_wconf 96'>die</span>
       <span class='ocrx_word' id='word_1_82' title='bbox 1543 2066 1968 2163; x_wconf 93'>Verfassung</span>
-      <span class='ocrx_word' id='word_1_83' title='bbox 1990 2062 2503 2139; x_wconf 44' lang='eng'>verstoBen””.</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 1990 2062 2503 2139; x_wconf 44' lang='eng'>verstoBen<sup>98,99</sup>.</span>
      </span>
     </p>
 
@@ -176,7 +176,7 @@
      <span class='ocr_line' id='line_1_17' title="bbox 441 3004 1365 3105; baseline -0.003 -25; x_size 102; x_descenders 27; x_ascenders 28">
       <span class='ocrx_word' id='word_1_124' title='bbox 441 3007 612 3080; x_wconf 96'>dern</span>
       <span class='ocrx_word' id='word_1_125' title='bbox 642 3007 753 3079; x_wconf 93' lang='eng'>die</span>
-      <span class='ocrx_word' id='word_1_126' title='bbox 781 3004 1365 3105; x_wconf 55' lang='eng'>Bevolkerung&#39;”.</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 781 3004 1365 3105; x_wconf 55' lang='eng'>Bevolkerung<sup>100</sup>.</span>
      </span>
     </p>
 
@@ -197,7 +197,7 @@
       <span class='ocrx_word' id='word_1_137' title='bbox 2297 3408 2568 3481; x_wconf 96' lang='deu'>wurde.</span>
      </span>
      <span class='ocr_line' id='line_1_20' title="bbox 436 3543 2571 3638; baseline -0.002 -22; x_size 96; x_descenders 24; x_ascenders 26">
-      <span class='ocrx_word' id='word_1_138' title='bbox 436 3546 640 3616; x_wconf 89'>Wire</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 436 3546 640 3616; x_wconf 89'>Wäre</span>
       <span class='ocrx_word' id='word_1_139' title='bbox 678 3570 750 3616; x_wconf 94'>es</span>
       <span class='ocrx_word' id='word_1_140' title='bbox 788 3544 926 3616; x_wconf 94'>den</span>
       <span class='ocrx_word' id='word_1_141' title='bbox 960 3545 1246 3617; x_wconf 96'>Damen</span>
@@ -205,7 +205,7 @@
       <span class='ocrx_word' id='word_1_143' title='bbox 1465 3546 1740 3616; x_wconf 93'>Herren</span>
       <span class='ocrx_word' id='word_1_144' title='bbox 1775 3544 2158 3616; x_wconf 96' lang='deu'>Politikern</span>
       <span class='ocrx_word' id='word_1_145' title='bbox 2192 3543 2343 3615; x_wconf 93'>und</span>
-      <span class='ocrx_word' id='word_1_146' title='bbox 2366 3545 2571 3638; x_wconf 91'>Jout-</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 2366 3545 2571 3638; x_wconf 91'>Jour-</span>
      </span>
      <span class='ocr_line' id='line_1_21' title="bbox 438 3677 2573 3775; baseline -0 -27; x_size 98; x_descenders 27; x_ascenders 26">
       <span class='ocrx_word' id='word_1_147' title='bbox 438 3678 740 3750; x_wconf 91'>nalisten</span>
