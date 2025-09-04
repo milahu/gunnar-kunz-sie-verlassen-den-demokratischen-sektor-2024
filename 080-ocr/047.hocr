@@ -50,27 +50,13 @@
       <span class='ocrx_word' id='word_1_29' title='bbox 2063 999 2409 1072; x_wconf 96'>bekannte</span>
      </span>
      <span class='ocr_line' id='line_1_5' title="bbox 285 1131 2592 1298; baseline -0.001 -26; x_size 104; x_descenders 27; x_ascenders 30">
-      <span class='ocrx_word' id='word_1_30' title='bbox 285 1131 1062 1280; x_wconf 39'>A</span>
-      <span class='ocrx_word' id='word_1_31' title='bbox 1154 1197 1618 1298; x_wconf 92'>Sogenannte</span>
-      <span class='ocrx_word' id='word_1_32' title='bbox 1640 1194 2243 1281; x_wconf 90'>Faktenchecker,</span>
-      <span class='ocrx_word' id='word_1_33' title='bbox 2276 1194 2402 1272; x_wconf 96'>die</span>
-      <span class='ocrx_word' id='word_1_34' title='bbox 2430 1194 2592 1271; x_wconf 96'>ihre</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 285 1131 1062 1237; x_wconf 39'>Zersetzungsstrategie</span>
      </span>
      <span class='ocr_line' id='line_1_6' title="bbox 283 1266 2592 1397; baseline 0 -58; x_size 98.954254; x_descenders 25.954258; x_ascenders 26">
       <span class='ocrx_word' id='word_1_35' title='bbox 283 1266 406 1339; x_wconf 95'>der</span>
       <span class='ocrx_word' id='word_1_36' title='bbox 445 1268 640 1340; x_wconf 92'>Stasi.</span>
       <span class='ocrx_word' id='word_1_37' title='bbox 693 1268 862 1362; x_wconf 91'>[GK</span>
       <span class='ocrx_word' id='word_1_38' title='bbox 901 1269 1056 1362; x_wconf 95'>395]</span>
-      <span class='ocrx_word' id='word_1_39' title='bbox 1178 1325 1225 1396; x_wconf 92'>I</span>
-      <span class='ocrx_word' id='word_1_40' title='bbox 1808 1320 1962 1397; x_wconf 74'>hlei</span>
-      <span class='ocrx_word' id='word_1_41' title='bbox 2205 1320 2329 1397; x_wconf 43' lang='eng'>id</span>
-      <span class='ocrx_word' id='word_1_42' title='bbox 2351 1320 2592 1397; x_wconf 78'>nichts</span>
-     </span>
-     <span class='ocr_line' id='line_1_7' title="bbox 522 1341 2266 1415; baseline -0.001 -18; x_size 100.20734; x_descenders 26.20229; x_ascenders 26.555901">
-      <span class='ocrx_word' id='word_1_43' title='bbox 522 1405 531 1415; x_wconf 77'>|</span>
-      <span class='ocrx_word' id='word_1_44' title='bbox 1220 1341 1583 1398; x_wconf 91'>nteressen</span>
-      <span class='ocrx_word' id='word_1_45' title='bbox 1611 1351 2118 1407; x_wconf 91'>verschleiern,</span>
-      <span class='ocrx_word' id='word_1_46' title='bbox 2150 1351 2266 1396; x_wconf 96'>sin</span>
      </span>
     </p>
 
@@ -79,9 +65,6 @@
       <span class='ocrx_word' id='word_1_47' title='bbox 284 1403 741 1476; x_wconf 95'>Gemeinsam</span>
       <span class='ocrx_word' id='word_1_48' title='bbox 778 1421 907 1476; x_wconf 95'>mit</span>
       <span class='ocrx_word' id='word_1_49' title='bbox 944 1403 1064 1476; x_wconf 95'>der</span>
-      <span class='ocrx_word' id='word_1_50' title='bbox 1283 1445 1595 1523; x_wconf 96'>anderes</span>
-      <span class='ocrx_word' id='word_1_51' title='bbox 1618 1446 1731 1522; x_wconf 93'>als</span>
-      <span class='ocrx_word' id='word_1_52' title='bbox 1753 1444 2581 1549; x_wconf 91'>Konformitätsprüfer.</span>
      </span>
      <span class='ocr_line' id='line_1_9' title="bbox 281 1536 1064 1609; baseline 0.001 -2; x_size 97.402039; x_descenders 25.40204; x_ascenders 26">
       <span class='ocrx_word' id='word_1_53' title='bbox 281 1536 898 1609; x_wconf 96'>Bundeszentrale</span>
@@ -208,6 +191,26 @@
      </span>
     </p>
 
+    <p class='ocr_par'>
+     <span class='ocr_line'>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1154 1197 1618 1298; x_wconf 92'>Sogenannte</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1640 1194 2243 1281; x_wconf 90'>Faktenchecker,</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 2276 1194 2402 1272; x_wconf 96'>die</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 2430 1194 2592 1271; x_wconf 96'>ihre</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 522 1341 2266 1415; baseline -0.001 -18; x_size 100.20734; x_descenders 26.20229; x_ascenders 26.555901">
+      <span class='ocrx_word' id='word_1_44' title='bbox 1174 1320 1583 1398; x_wconf 91'>Interessen</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 1611 1312 2118 1407; x_wconf 91'>verschleiern,</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 2150 1310 2341 1396; x_wconf 96'>sind</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 2351 1320 2592 1397; x_wconf 78'>nichts</span>
+     </span>
+     <span class='ocr_line'>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1283 1445 1595 1523; x_wconf 96'>anderes</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1618 1446 1731 1522; x_wconf 93'>als</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 1753 1444 2581 1549; x_wconf 91'>Konformitätsprüfer.</span>
+     </span>
+    </p>
+
     <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 277 3554 2415 4191">
      <span class='ocr_line' id='line_1_23' title="bbox 369 3554 2415 3653; baseline -0.001 -26; x_size 98; x_descenders 26; x_ascenders 25">
       <span class='ocrx_word' id='word_1_148' title='bbox 369 3556 509 3627; x_wconf 96'>Um</span>
@@ -252,7 +255,7 @@
       <span class='ocrx_word' id='word_1_179' title='bbox 923 4094 1033 4166; x_wconf 96'>die</span>
       <span class='ocrx_word' id='word_1_180' title='bbox 1061 4094 1347 4166; x_wconf 96'>Fahnen</span>
       <span class='ocrx_word' id='word_1_181' title='bbox 1375 4094 1826 4191; x_wconf 96'>geschrieben</span>
-      <span class='ocrx_word' id='word_1_182' title='bbox 1855 4089 2043 4166; x_wconf 56' lang='eng'>hat”.</span>
+      <span class='ocrx_word' id='word_1_182' title='bbox 1855 4089 2043 4166; x_wconf 56' lang='eng'>hat<sup>97</sup>.</span>
      </span>
     </p>
 
